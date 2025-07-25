@@ -38,3 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lsh7897&bg_color=180,1f1f1f,000000&title_color=bf73e8&text_color=bf73e8" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh7897&layout=compact&bg_color=180,1f1f1f,000000&title_color=bf73e8&text_color=bf73e8" />
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=lsh7897&&style=flat-square" align="center" />
+</div> 
